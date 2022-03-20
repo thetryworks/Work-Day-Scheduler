@@ -22,7 +22,7 @@ THEN the saved events persist
 
 ## Website
 https://thetryworks.github.io/Work-Day-Scheduler/
-![ALT Text]()
+![ALT Text](assets/workday.gif)
 
 
 ## Contribution
